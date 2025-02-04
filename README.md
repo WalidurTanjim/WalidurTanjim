@@ -69,8 +69,6 @@
 
 ###
 
-###
-
 <img src="https://raw.githubusercontent.com/WalidurTanjim/WalidurTanjim/output/snake.svg" alt="Snake animation" />
 
 ###
