@@ -36,7 +36,7 @@ const walidur = {
   ui_code: ["HTML5", "CSS3", "JavaScript", "React(JavaScript library for UI development)"],
   authenticatin: "Firebase(Authentication & backend services)",
   backend: ["NODE", "Express"],
-  database: "MongoDB(NoSQL database)"
+  database: "MongoDB(NoSQL database)",
   challenge: "I am doing the #100DaysOfCode challenge focused on react and next"
 }
 ```
