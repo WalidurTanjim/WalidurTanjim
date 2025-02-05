@@ -18,6 +18,14 @@
 
 ###
 
+<h4 align="left">MERN Stack Web Developer</h4>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning NextJS<br>🎯 Goals: Become a senior developer by 2025<br>🎲 Fun fact: I like to play 'Vice City' game 😎😎</p>
+
+###
+
 <img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=790b7611vwlbfsm6db0jhjbz7zspou2oa9fid65dvq0umwiw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 
 
@@ -32,14 +40,6 @@ const walidur = {
   challenge: "I am doing the #100DaysOfCode challenge focused on react and next"
 }
 ```
-
-###
-
-<h4 align="left">MERN Stack Web Developer</h4>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning NextJS<br>🎯 Goals: Become a senior developer by 2025<br>🎲 Fun fact: I like to play 'Vice City' game 😎😎</p>
 
 ###
 
