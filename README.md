@@ -18,6 +18,22 @@
 
 ###
 
+<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=790b7611vwlbfsm6db0jhjbz7zspou2oa9fid65dvq0umwiw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+
+
+```javascript
+const walidur = {
+  pronouns: "he" | "his",
+  tools_libraries: ["Bootstrap(CSS Framework)", "Tailwind(CSS utility-first framework)"],
+  ui_code: ["HTML5", "CSS3", "JavaScript", "React(JavaScript library for UI development)"],
+  authenticatin: "Firebase(Authentication & backend services)",
+  backend: ["NODE", "Express"],
+  database: "MongoDB(NoSQL database)"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and next"
+}
+
+###
+
 <h4 align="left">MERN Stack Web Developer</h4>
 
 ###
@@ -68,29 +84,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WalidurTanjim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalidurTanjim&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<h2> Hi, I'm Walidur Tanjim!</h2>
-<img align='right' src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif?cid=790b7611vwlbfsm6db0jhjbz7zspou2oa9fid65dvq0umwiw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
-
-
-### A little more about me...  
-
-```javascript
-const walidur = {
-  pronouns: "he" | "his",
-  tools_libraries: ["Bootstrap(CSS Framework)", "Tailwind(CSS utility-first framework)"],
-  ui_code: ["HTML5", "CSS3", "JavaScript", "React(JavaScript library for UI development)"],
-  authenticatin: "Firebase(Authentication & backend services)",
-  backend: ["NODE", "Express"],
-  database: "MongoDB(NoSQL database)"
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and next"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
 
 ###
