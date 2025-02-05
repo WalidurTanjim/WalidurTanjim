@@ -31,7 +31,7 @@
 
 ```javascript
 const walidur = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   tools_libraries: ["Bootstrap(CSS Framework)", "Tailwind(CSS utility-first framework)"],
   ui_code: ["HTML5", "CSS3", "JavaScript", "React(JavaScript library for UI development)"],
   authenticatin: "Firebase(Authentication & backend services)",
