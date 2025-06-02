@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1uFgbtY-HDvg4Y-nxTib7yVatPF-kdKSc/view?usp=drivesdk"  />
+  <img height="200" src="https://github.com/WalidurTanjim/WalidurTanjim/blob/main/tanjim.jpg"  />
 </div>
 
 ###
